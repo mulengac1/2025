@@ -1,2 +1,4 @@
 # 2025
-automated restaurant reservation and review application
+I am building an automated restaurant reservation and review application with resy, opentable, yelp api.
+
+
